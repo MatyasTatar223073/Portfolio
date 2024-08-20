@@ -18,7 +18,7 @@ The project provided a strong foundation in data science techniques, particularl
 
 In the first few quarters, we have also become familiar with self-study and time tracking for reliability. Below you can see an example of how we provide evidence for our learning.
 
-![Worklog example[(figs/worklog_ex.png)
+![Worklog example](figs/worklog_ex.png)
 
 
 ### Portfolio Project: Proof-of-Concept Image Classification Application
