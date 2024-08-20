@@ -1,5 +1,26 @@
 # 3rd Year Data Science & Artificial Intelligence Student
 
+### Portfolio Project: Data Science Foundations and Banijay Group Viewership Analysis
+
+**Project Overview**  
+During the first two quarters of my first year, the focus was on building foundational data science skills. We covered various topics in Artificial Intelligence, including its legal and ethical aspects. The coursework included learning the basics of Python (which served as a valuable review for me) and exploring data analysis techniques using Microsoft PowerBI.
+
+**Key Contributions**
+- **Python Proficiency**: Enhanced my Python programming skills through various exercises and projects, solidifying my understanding of fundamental concepts.
+- **Data Analysis with PowerBI**: Gained practical experience in data visualization and analysis using Microsoft PowerBI, learning how to present data-driven insights effectively.
+- **Banijay Group Analysis**: In the second quarter, I applied the skills learned to analyze the Banijay Group's viewership and ratings. This task involved using PowerBI and Python to extract, process, and visualize data, leading to actionable insights.
+
+**Outcome**
+The project provided a strong foundation in data science techniques, particularly in using Python and PowerBI for real-world data analysis. The analysis of the Banijay Group's viewership offered practical experience in handling and interpreting media data. For a more detailed exploration, please refer to the brief research paper attached below.
+
+<object data="figs/Tatar_Matyas_223073_Year1BlockBReport.pdf" type="application/pdf" width="100%">
+</object>
+
+In the first few quarters, we have also become familiar with self-study and time tracking for reliability. Below you can see an example of how we provide evidence for our learning.
+
+![Worklog example[(figs/worklog_ex.png)
+
+
 ### Portfolio Project: Proof-of-Concept Image Classification Application
 
 **Project Overview**  
@@ -31,13 +52,13 @@ The project successfully demonstrated the models' ability to differentiate betwe
 ### Portfolio Project: Green Index Analysis for Breda
 
 **Project Overview**  
-In the final quarter of my first year, my team explored sustainability solutions for Breda, focusing on the Green Index score—an indicator of the city's environmental sustainability. We aimed to understand why and how the Green Index fluctuates, using data provided by the university and government.
+In the final quarter of my first year, my team explored sustainability solutions for Breda, focusing on the Green Index score—an indicator of the city's environmental sustainability. We aimed to understand why and how the Green Index fluctuates, using data provided by the university and government. This was our first time working as a team using the SCRUM framework. For the sake of experience, scrum masters were rotated every sprint.
 
 **Key Contributions**
-- **Data Processing**: Cleaned and preprocessed data from multiple sources, including Income, Population, Emissions, and Nuisances.
-- **Machine Learning**: Evaluated various models and selected a Random Forest Regression model for its effectiveness in predicting Green Index fluctuations.
-- **Documentation**: Co-authored a Data Quality Report and researched an Ethical and Legal Checklist to ensure project compliance.
-- **Dashboard Development**: Built an interactive Streamlit dashboard to visualize model predictions and allow users to explore factors affecting the Green Index.
+- **Data Processing**: Cleaned and preprocessed data from multiple sources, including Income, Population, Emissions, Renewables, and Nuisances.
+- **Machine Learning**: Trained and evaluated various models for their effectiveness in predicting Green Index fluctuations, focusing on emissions and renewable energy
+- **Documentation**: Authored the Ethical and Legal Checklist to ensure project compliance, contributed and consolidated the Data Quality Report.
+- **Dashboard Development**: Helped build an interactive Streamlit dashboard to visualize model predictions and allow users to explore factors affecting the Green Index.
 
 **Tools & Technologies**
 - **Python**: Data processing (Pandas, NumPy)
@@ -60,5 +81,27 @@ This project explored the impact of Artificial Intelligence (AI) and Data Scienc
 **Outcome**
 The study provided valuable insights into how both Built Environment professionals and students perceive the rise of AI and Data Science, and it offered strategic curriculum recommendations. For a deeper understanding of our research and findings, please refer to the attached research paper.
 
+<object data="figs/Matyas_Y2A_ADSAxBE_Research.pdf" type="application/pdf" width="100%">
+</object>
 
 
+### Portfolio Project: Natural Language Processing Package Development
+
+**Project Overview**  
+In the final quarter of my second year, my team developed a comprehensive Natural Language Processing (NLP) package. This package included multiple modules: a Processing module for speech-to-text conversion, a Modeling module for training models, an Inference module for making predictions, and an Evaluation module for assessing the predictions. We also built a basic API to interface with the package, facilitating easy integration into other applications.
+
+**Key Contributions**
+- **Data Processing**: Handled the preparation and preprocessing of data for training the NLP models.
+- **Model Training**: Trained various models within the package using the Microsoft Azure Machine Learning service.
+- **Endpoint Deployment**: Deployed the trained models as endpoints through Azure, enabling seamless access to the models for inference.
+- **Interactive CLI Development**: Developed an interactive Command-Line Interface (CLI) to provide users with easy access to all functionalities of the NLP package, including processing, modeling, inference, and evaluation.
+
+**Tools & Technologies**
+- **Microsoft Azure**: Data management, model training, and endpoint deployment
+- **Python**: Core language for package development and CLI creation
+- **NLP Techniques**: Speech-to-text processing, model training, inference, and evaluation
+
+**Outcome**
+The NLP package successfully integrated multiple functionalities, from speech processing to model evaluation, in a user-friendly manner. The interactive CLI and API allowed for easy interaction with the package, making it a versatile tool for NLP tasks.
+
+[NLP Package Repository](https://github.com/BredaUniversityADSAI/2023-24d-fai2-adsai-group-nlp2)
