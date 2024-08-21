@@ -13,7 +13,7 @@ During the first two quarters of my first year, the focus was on building founda
 **Outcome**
 The project provided a strong foundation in data science techniques, particularly in using Python and PowerBI for real-world data analysis. The analysis of the Banijay Group's viewership offered practical experience in handling and interpreting media data. For a more detailed exploration, please refer to the brief research paper attached below.
 
-<object data="figs/Tatar_Matyas_223073_Year1BlockBReport.pdf" type="application/pdf" width="700px" height="700px">
+<object data="figs/Tatar_Matyas_223073_Year1BlockBReport.pdf" type="application/pdf" width="100%" height="900px">
 </object>
 
 In the first few quarters, we have also become familiar with self-study and time tracking for reliability. Below you can see an example of how we provide evidence for our learning.
@@ -81,7 +81,7 @@ This project explored the impact of Artificial Intelligence (AI) and Data Scienc
 **Outcome**
 The study provided valuable insights into how both Built Environment professionals and students perceive the rise of AI and Data Science, and it offered strategic curriculum recommendations. For a deeper understanding of our research and findings, please refer to the attached research paper.
 
-<object data="figs/Matyas_Y2A_ADSAIxBE_Research.pdf" type="application/pdf" width="700px" height="700px">
+<object data="figs/Matyas_Y2A_ADSAIxBE_Research.pdf" type="application/pdf" width="100%" height="900px">
 </object>
 
 
