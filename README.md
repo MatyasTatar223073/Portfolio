@@ -13,7 +13,7 @@ During the first two quarters of my first year, the focus was on building founda
 **Outcome**
 The project provided a strong foundation in data science techniques, particularly in using Python and PowerBI for real-world data analysis. The analysis of the Banijay Group's viewership offered practical experience in handling and interpreting media data. For a more detailed exploration, please refer to the brief research paper attached below.
 
-<object data="figs/Tatar_Matyas_223073_Year1BlockBReport.pdf" type="application/pdf" width="100%" height="700px">
+<object data="figs/Tatar_Matyas_223073_Year1BlockBReport.pdf" type="application/pdf" width="1080px" height="1080px">
 </object>
 
 In the first few quarters, we have also become familiar with self-study and time tracking for reliability. Below you can see an example of how we provide evidence for our learning.
